@@ -8,7 +8,7 @@ So, Here we are going to talk about how to capture some one in camera without hi
 
 1. Normal people just click photo.  (Risk 99%)
 
-2. Use background video recorders i provided an app {mod} bvr pro mod use it to capture video even when screen is off or other apps are running.
+2. Use background video recorders.an named as bvr pro download its mode and use it to capture video even when screen is off or other apps are running.
 [Support both front and back cameras] (Risk 10%)
 
 Points to be noted.
