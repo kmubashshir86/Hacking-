@@ -17,7 +17,7 @@ Points to be noted.
 
 * Try to control your body sign that you are recording some one. Its natural for all to facing fear and shriks in body while recording some one else without permission/consent but a good social engineer know how to behave in situations.
 
-* Power saving modes are off so that app do not freeze automatically.
+* Power saving modes must off so that app do not freeze automatically.
 
 
 (Update in feature)
